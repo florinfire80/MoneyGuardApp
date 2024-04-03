@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/MoneyGuardApp/static/css/main.7acaea2f.css",
-    "main.js": "/MoneyGuardApp/static/js/main.07d3183d.js",
+    "main.css": "/MoneyGuardApp/static/css/main.8c2006ec.css",
+    "main.js": "/MoneyGuardApp/static/js/main.37d8fb13.js",
+    "static/media/gradient.webp": "/MoneyGuardApp/static/media/gradient.97f7d926370def36c1c7.webp",
+    "static/media/Poppins-Regular.ttf": "/MoneyGuardApp/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/MoneyGuardApp/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/MoneyGuardApp/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/desktopRegister.webp": "/MoneyGuardApp/static/media/desktopRegister.4d04a4a93eccc2beb204.webp",
+    "static/media/tabletRegister.webp": "/MoneyGuardApp/static/media/tabletRegister.a07821c01d71a9c6800b.webp",
+    "static/media/desktopLogin.webp": "/MoneyGuardApp/static/media/desktopLogin.455a3304b47ab081804a.webp",
+    "static/media/tabletLogin.webp": "/MoneyGuardApp/static/media/tabletLogin.6fe88424d2836d318e69.webp",
+    "static/media/icons.svg": "/MoneyGuardApp/static/media/icons.3df88140045c353bfdd6b20e0756a4b1.svg",
+    "static/media/mobileLogin.webp": "/MoneyGuardApp/static/media/mobileLogin.2da9430439eae880996b.webp",
+    "static/media/mobileRegister.webp": "/MoneyGuardApp/static/media/mobileRegister.cd96492ed450e20db6d0.webp",
     "index.html": "/MoneyGuardApp/index.html",
-    "main.7acaea2f.css.map": "/MoneyGuardApp/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MoneyGuardApp/static/js/main.07d3183d.js.map"
+    "static/media/plus.svg": "/MoneyGuardApp/static/media/plus.6194a661e88e1e5113d28da2398b6404.svg",
+    "static/media/minus.svg": "/MoneyGuardApp/static/media/minus.c1930871236002c803c7b6a6c0b99024.svg",
+    "main.8c2006ec.css.map": "/MoneyGuardApp/static/css/main.8c2006ec.css.map",
+    "main.37d8fb13.js.map": "/MoneyGuardApp/static/js/main.37d8fb13.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.8c2006ec.css",
+    "static/js/main.37d8fb13.js"
   ]
 }
