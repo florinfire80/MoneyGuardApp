@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoneyGuardApp/static/css/main.7acaea2f.css",
+    "main.js": "/MoneyGuardApp/static/js/main.07d3183d.js",
+    "index.html": "/MoneyGuardApp/index.html",
+    "main.7acaea2f.css.map": "/MoneyGuardApp/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/MoneyGuardApp/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
